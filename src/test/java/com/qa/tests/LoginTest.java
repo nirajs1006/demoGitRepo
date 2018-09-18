@@ -1,6 +1,7 @@
 package com.qa.tests;
 
 import org.testng.annotations.Test;
+//added a comment
 
 public class LoginTest {
 
